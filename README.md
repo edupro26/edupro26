@@ -11,7 +11,7 @@ My name is Eduardo. I am currently on my 3rd year of Computer Science at FCUL.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/edupro26"><img src="https://github-readme-stats.vercel.app/api?username=edupro26&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="edupro26's GitHub stats" /></a>
+<a href="http://www.github.com/edupro26"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=edupro26&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="edupro26's GitHub stats" /></a>
 
 
 ### Skills
