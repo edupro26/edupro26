@@ -1,4 +1,4 @@
-Hi 👋 Welcome to my profile
+👋 Welcome to my profile
 ================================
 
 My name is Eduardo. I am currently on my 3rd year of Computer Science at FCUL.
