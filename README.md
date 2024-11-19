@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33A1F7&width=435&separator=%3C&lines=while(!(succed+%3D+try()));)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33A1F7&width=435&separator=%3C&lines=while(!(succeed+%3D+try()));)](https://git.io/typing-svg)
 
 #### Hello there!👋
 #### My name is Eduardo. I'm a Computer Science Master's student at the Faculty of Sciences of University of Lisbon.
