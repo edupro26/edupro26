@@ -1,26 +1,31 @@
-👋 Welcome to my profile
-================================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33A1F7&width=435&separator=%3C&lines=while(!(succed+%3D+try()));)](https://git.io/typing-svg)
 
-My name is Eduardo. I am currently on my 3rd year of Computer Science at FCUL.
+👋 Hello there!
 
-* 🌍  I'm based in Lisbon, Portugal
-* ✉️  You can contact me at [edupro26@gmail.com](mailto:edupro26@gmail.com)
+My name is Eduardo. I'm a Computer Science Master's student at the Faculty of Sciences of University of Lisbon.
 
+<br/>
 
-### My GitHub Stats
+#### 📊 GitHub Stats
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edupro26&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=edupro26&theme=github-dark-blue&mode=weekly" alt="GitHub Streak"/>
+</div>
 
-![EduPro26's github stats](https://github-readme-stats.vercel.app/api?username=edupro26&show_icons=true&hide_border=true&theme=dark)
+<br/>
 
+#### 🚀 My Tech Stack
+---
 
-### Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,kotlin,javascript,typescript,html,css,postgresql,mongodb,mysql,firebase,spring,nodejs,express,docker,git,github,linux&perline=10" alt="Tech Stack"/>
+</div>
 
+<br/>
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,javascript,typescript,html,css,spring,postgresql,docker,git,github,nodejs,express,androidstudio,firebase,vscode&perline=10"/>
-
-
-### Socials
-
-
-</a> <a href="https://www.github.com/edupro26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/eduardo-proença" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</div>
