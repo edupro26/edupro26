@@ -10,8 +10,8 @@ My name is Eduardo. I'm a Computer Science Master's student at the Faculty of Sc
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edupro26&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edupro26&theme=github-dark-blue&mode=weekly" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edupro26&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=edupro26&theme=github-dark-blue&mode=weekly" alt="GitHub Streak"/>
 </div>
 
 <br/>
