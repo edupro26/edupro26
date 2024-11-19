@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edupro26&show_icons=true&theme=github_dark&hide=stars" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=edupro26&theme=github-dark-blue&mode=weekly" alt="GitHub Streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=edupro26&show_icons=true&theme=github_dark&hide=stars" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=edupro26&theme=github-dark-blue&mode=weekly" alt="GitHub Streak"/>
 </div>
 
 <br/>
