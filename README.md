@@ -21,10 +21,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cs,kotlin,javascript,typescript,html,css,postgresql,mongodb,mysql,firebase,spring,nodejs,express,docker,git,github,linux&perline=10" alt="Tech Stack"/>
 </div>
-
-<br/>
-
----
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
-</div>
