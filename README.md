@@ -19,5 +19,5 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,kotlin,javascript,typescript,html,css,postgresql,mongodb,mysql,firebase,spring,nodejs,express,docker,git,github,linux&perline=10" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,typescript,html,css,go,c,postgresql,mongodb,gcp,firebase,docker,spring,nodejs,express,gradle,maven,git&perline=10" alt="Tech Stack"/>
 </div>
